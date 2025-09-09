@@ -1,0 +1,16 @@
+numpy==1.26.4
+numba
+natsort
+tqdm
+plyfile
+rich
+matplotlib
+opencv-python
+pandas
+pillow
+pyyaml
+scikit-learn
+scikit-image
+scipy
+open3d
+lpips
